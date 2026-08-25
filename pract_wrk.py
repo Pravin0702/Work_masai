@@ -1,1 +1,2 @@
+print("dot") 
 print("dot")
